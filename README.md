@@ -21,4 +21,4 @@
 
 ## Languages and Tools:
 
-![LangsAndTools](https://skillicons.dev/icons?i=ts,js,rust,c,cpp,python,nextjs,react,nestjs,prisma,postgres,mysql,sqlite,redux,nodejs,redis,tailwind,wasm,express,arch,vim,nginx,gtk,git,cmake,docker,tauri,bash,postman)
+![LangsAndTools](https://skillicons.dev/icons?i=ts,js,java,rust,c,cpp,python,nextjs,react,nestjs,prisma,postgres,mysql,sqlite,redux,nodejs,redis,tailwind,wasm,express,arch,vim,nginx,gtk,git,cmake,docker,tauri,bash,postman)
