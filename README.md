@@ -10,6 +10,7 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ninjagor&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true&hide_rank=true" alt="Rohit's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninjagor&theme=github_dark&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+<!--
 ## Top repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ninjagor&repo=rge.js&theme=github_dark&hide_border=false)](https://github.com/Ninjagor/rge.js)
 
@@ -18,6 +19,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bpa-instrumentality&repo=bpa-instrumentality.github.io&theme=github_dark&hide_border=false)](https://github.com/bpa-instrumentality/bpa-instrumentality.github.io)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ninjagor&repo=cs-final-project-server&theme=github_dark&hide_border=false)](https://github.com/Ninjagor/cs-final-project-server)
+-->
 
 ## Languages and Tools:
 
